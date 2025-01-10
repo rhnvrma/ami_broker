@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rhnvr\\Downloads\\websocket_test\\websocketpp\\tutorials\\utility_client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41ECA1E6-B57B-4939-9532-1FC8030830AB}|WebRaw.vcxproj|C:\\Users\\Rhnvr\\Downloads\\websocket_test\\websocketpp\\tutorials\\utility_client\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{41ECA1E6-B57B-4939-9532-1FC8030830AB}|WebRaw.vcxproj|solutionrelative:CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 216,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\Rhnvr\\Downloads\\websocket_test\\websocketpp\\tutorials\\utility_client\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "CMakeLists.txt",
+              "ToolTip": "C:\\Users\\Rhnvr\\Downloads\\websocket_test\\websocketpp\\tutorials\\utility_client\\CMakeLists.txt",
+              "RelativeToolTip": "CMakeLists.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-10T04:57:13.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

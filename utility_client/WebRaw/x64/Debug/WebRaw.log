@@ -1,0 +1,42 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: Two or more files with the name of CMakeCXXCompilerId.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are build2\cmakefiles\3.22.1\compileridcxx\CMakeCXXCompilerId.cpp, cmakefiles\3.22.1\compileridcxx\CMakeCXXCompilerId.cpp, out\build\x64-debug\cmakefiles\3.29.5-msvc4\compileridcxx\CMakeCXXCompilerId.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: Two or more files with the name of CMakeCCompilerId.c will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are build2\cmakefiles\3.22.1\compileridc\CMakeCCompilerId.c, cmakefiles\3.22.1\compileridc\CMakeCCompilerId.c, out\build\x64-debug\cmakefiles\3.29.5-msvc4\compileridc\CMakeCCompilerId.c.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: Two or more files with the name of MarketDataFeedV3.pb.cc will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are build2\MarketDataFeedV3.pb.cc, MarketDataFeedV3.pb.cc.
+  CMakeCXXCompilerId.cpp
+  MarketDataFeedV3.pb.cc
+C:\Users\Rhnvr\Downloads\websocket_test\websocketpp\tutorials\utility_client\build2\MarketDataFeedV3.pb.h(10,10): error C1083: Cannot open include file: 'google/protobuf/port_def.inc': No such file or directory
+  (compiling source file 'build2/MarketDataFeedV3.pb.cc')
+  
+  CMakeCXXCompilerId.cpp
+  MarketDataFeedV3.pb.cc
+C:\Users\Rhnvr\Downloads\websocket_test\websocketpp\tutorials\utility_client\MarketDataFeedV3.pb.h(10,10): error C1083: Cannot open include file: 'google/protobuf/port_def.inc': No such file or directory
+  (compiling source file 'MarketDataFeedV3.pb.cc')
+  
+  CMakeCXXCompilerId.cpp
+  sample_main.cpp
+C:\Users\Rhnvr\Downloads\websocket_test\websocketpp\tutorials\utility_client\WebSocketHandler.h(7,10): error C1083: Cannot open include file: 'websocketpp/config/asio_client.hpp': No such file or directory
+  (compiling source file 'sample_main.cpp')
+  
+  step1.cpp
+  step2.cpp
+C:\Users\Rhnvr\Downloads\websocket_test\websocketpp\tutorials\utility_client\step2.cpp(31,10): error C1083: Cannot open include file: 'websocketpp/config/asio_no_tls_client.hpp': No such file or directory
+  step3.cpp
+C:\Users\Rhnvr\Downloads\websocket_test\websocketpp\tutorials\utility_client\step3.cpp(31,10): error C1083: Cannot open include file: 'websocketpp/config/asio_no_tls_client.hpp': No such file or directory
+  step4.cpp
+C:\Users\Rhnvr\Downloads\websocket_test\websocketpp\tutorials\utility_client\step4.cpp(31,10): error C1083: Cannot open include file: 'websocketpp/config/asio_no_tls_client.hpp': No such file or directory
+  step5.cpp
+C:\Users\Rhnvr\Downloads\websocket_test\websocketpp\tutorials\utility_client\step5.cpp(31,10): error C1083: Cannot open include file: 'websocketpp/config/asio_no_tls_client.hpp': No such file or directory
+  step6.cpp
+C:\Users\Rhnvr\Downloads\websocket_test\websocketpp\tutorials\utility_client\step6.cpp(31,10): error C1083: Cannot open include file: 'websocketpp/config/asio_no_tls_client.hpp': No such file or directory
+  step7.cpp
+C:\Users\Rhnvr\Downloads\websocket_test\websocketpp\tutorials\utility_client\step7.cpp(29,10): error C1083: Cannot open include file: 'websocketpp/config/asio_client.hpp': No such file or directory
+  step8.cpp
+C:\Users\Rhnvr\Downloads\websocket_test\websocketpp\tutorials\utility_client\step8.cpp(1,10): error C1083: Cannot open include file: 'WebSocket_Client_Example.h': No such file or directory
+  WebSocketClient.cpp
+C:\Users\Rhnvr\Downloads\websocket_test\websocketpp\tutorials\utility_client\WebSocketClient.hpp(4,10): error C1083: Cannot open include file: 'websocketpp/config/asio_client.hpp': No such file or directory
+  (compiling source file 'WebSocketClient.cpp')
+  
+  WebSocketHandler.cpp
+C:\Users\Rhnvr\Downloads\websocket_test\websocketpp\tutorials\utility_client\WebSocketHandler.h(7,10): error C1083: Cannot open include file: 'websocketpp/config/asio_client.hpp': No such file or directory
+  (compiling source file 'WebSocketHandler.cpp')
+  
+  Generating Code...

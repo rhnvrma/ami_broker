@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+5e33ddfcc5b29c98429204c357fb926a MarketDataFeedV3.pb.h
